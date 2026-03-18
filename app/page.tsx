@@ -60,4 +60,25 @@ export default function TerzaghAI() {
 
       {/* Chat Section */}
       <section id="chat" className="py-24 px-6 bg-white">
-        <
+        <div className="max-w-3xl mx-auto text-center">
+          <h2 className="text-4xl font-semibold mb-4 text-[#0A3D62]">¿Listo para consultar?</h2>
+          <p className="text-xl text-zinc-600 mb-12">
+            Sube tus informes geotécnicos o pregúntame directamente sobre SPT, CPTu, 
+            parámetros de suelos, clasificaciones sísmicas y valores de diseño.
+          </p>
+
+          <div className="bg-zinc-100 border border-zinc-200 rounded-3xl p-16">
+            <div className="text-6xl mb-6">🧠</div>
+            <p className="text-zinc-500 text-lg">
+              El chatbot completo con Gemini 3.1 Pro estará disponible aquí muy pronto.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <footer className="bg-zinc-900 text-white py-12 text-center">
+        <p>TerzaghAI © 2026 • Inspirado en KuadRante Ingeniería</p>
+      </footer>
+    </div>
+  );
+}
