@@ -49,12 +49,12 @@ export default function TerzaghAI() {
         </div>
       </section>
 
-      {/* Inspirado en KuadRante */}
+      {/* Inspirado en Geotecnia Chilena */}
       <div className="py-16 border-t border-zinc-100 bg-zinc-50">
         <div className="max-w-4xl mx-auto text-center px-6">
           <p className="text-zinc-500 mb-4">Desarrollado con el rigor de</p>
-          <div className="text-5xl font-bold tracking-widest text-[#0A3D62]">KUADRANTE</div>
-          <p className="text-green-600 mt-1 font-medium">Ingeniería</p>
+          <div className="text-5xl font-bold tracking-widest text-[#0A3D62]">INGENIERIA</div>
+          <p className="text-green-600 mt-1 font-medium">CHILENA</p>
         </div>
       </div>
 
@@ -77,7 +77,7 @@ export default function TerzaghAI() {
       </section>
 
       <footer className="bg-zinc-900 text-white py-12 text-center">
-        <p>TerzaghAI © 2026 • Inspirado en KuadRante Ingeniería</p>
+        <p>TerzaghAI © 2026 • Inspirado en Ingeniería Getécnica Chilena</p>
       </footer>
     </div>
   );
